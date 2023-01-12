@@ -1,6 +1,6 @@
 ## Команды:
 
-1. Запустить базу данных в docker
+1. Запустить redis в docker
 ```
 docker-compose up -d
 ```
